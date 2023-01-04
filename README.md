@@ -7,7 +7,7 @@ User marks earthquake's position and fills the form about earthquake's details.
 
 ## Description
 
-The user has to allow application usage of the location information.
+The user has to allow application usage of information about location.
 
 According to user's broswer geolocation information map is rendered on his location.
 
