@@ -5,7 +5,7 @@ Application is modelled on Mapty app.
 
 User marks earthquake's position and fills the form about earthquake's details.
 
-##Description
+## Description
 
 The user has to allow application usage of the location information.
 
