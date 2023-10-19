@@ -5,6 +5,8 @@ Application is modelled on Mapty app.
 
 User marks earthquake's position and fills the form about earthquake's details.
 
+Feel free to explore it: https://rpivac00-earthquake-report.netlify.app/
+
 ## Description
 
 The user has to allow application usage of information about location.
